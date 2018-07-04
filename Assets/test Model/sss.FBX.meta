@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 6564ecb7be7eb2746af5470fc9a26c9d
+timeCreated: 1530686765
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: 1
+    2100002: 2
+    2100004: 3
+    2100006: 4
+    2100008: 5
+    2100010: 6
+    2100012: 7
+    2100014: 8
+    2100016: 9
+    2100018: 10
+    2100020: 11
+    2100022: 12
+    2100024: 13
+    2100026: 14
+    2100028: 15
+    2100030: 16
+    2100032: 'Material #2097628661'
+    2100034: 'Material #2097628662'
+    2100036: 'Material #2097628663'
+    2100038: 'Material #2097628664'
+    2100040: 'Material #2097628665'
+    2100042: 'Material #2097628666'
+    2100044: 'Material #2097628667'
+    2100046: 'Material #2097628668'
+    2100048: 'Material #2097628669'
+    2100050: 'Material #2097628670'
+    2100052: 'Material #2097628671'
+    2100054: 'Material #2097628672'
+    2100056: 'Material #2097628673'
+    2100058: 'Material #2097628674'
+    2100060: 'Material #2097628675'
+    2100062: 'Material #2097628676'
+    2100064: 'Material #2097628677'
+    2100066: 'Material #2097628678'
+    2100068: 'Material #2097628679'
+    2100070: 'Material #2097628680'
+    2100072: 'Material #2097628681'
+    2100074: 'Material #2097628682'
+    2100076: 'Material #2097628683'
+    2100078: 'Material #2097628684'
+    2100080: 'Material #2097628685'
+    2100082: 'Material #2097628686'
+    2100084: 'Material #2097628687'
+    2100086: 'Material #2097628688'
+    2100088: 'Material #2097628689'
+    2100090: 'Material #2097628690'
+    2100092: 'Material #2097628691'
+    2100094: 'Material #2097628692'
+    2100096: 'Material #2097628693'
+    2100098: 'Material #2097628694'
+    2100100: 'Material #2097628695'
+    2100102: 'Material #2097628696'
+    2100104: 'Material #2097628697'
+    2100106: 'Material #2097628698'
+    2100108: 'Material #2097628699'
+    2100110: 'Material #2097628700'
+    2100112: 'Material #2097628701'
+    2100114: 'Material #2097628702'
+    2100116: 'Material #2097628703'
+    2100118: 'Material #2097628704'
+    2100120: 'Material #2097628705'
+    2100122: 'Material #2097628706'
+    2100124: 'Material #2097628707'
+    2100126: 'Material #2097628708'
+    2100128: 'Material #2097628709'
+    2100130: 'Material #2097628710'
+    2100132: 'Material #2097628711'
+    2100134: 'Material #2097628712'
+    2100136: 'Material #2097628713'
+    2100138: 'Material #2097628714'
+    2100140: 'Material #2097628715'
+    2100142: 'Material #2097628716'
+    2100144: 'Material #2097628717'
+    2100146: 'Material #2097628718'
+    2100148: 'Material #2097628719'
+    2100150: 'Material #2097628720'
+    2100152: 'Material #2097628721'
+    2100154: 'Material #2097628722'
+    2100156: 'Material #2097628723'
+    2100158: 'Material #2097628724'
+    2100160: 'Material #2097628725'
+    2100162: 'Material #2097628726'
+    2100164: 'Material #2097628727'
+    2100166: 'Material #2097628728'
+    2100168: 'Material #2097628729'
+    2100170: 'Material #2097628730'
+    2100172: 'Material #2097628731'
+    2100174: 'Material #2097628732'
+    2100176: 'Material #2097628733'
+    2100178: 'Material #2097628734'
+    2100180: 'Material #2097628735'
+    2100182: 'Material #2097628736'
+    2100184: 'Material #2097628737'
+    2100186: 'Material #2097628738'
+    2100188: 'Material #2097628739'
+    2100190: 'Material #2097628740'
+    2100192: 'Material #2097628741'
+    2100194: 'Material #2097628742'
+    2100196: 'Material #2097628743'
+    2100198: 'Material #2097628744'
+    2100200: 'Material #2097628745'
+    2100202: 'Material #2097628746'
+    2100204: 'Material #2097628747'
+    2100206: 'Material #2097628748'
+    2100208: 'Material #2097628749'
+    2100210: 'Material #2097628750'
+    2100212: 'Material #2097628751'
+    2100214: 'Material #2097628752'
+    2100216: 'Material #2097628753'
+    2100218: 'Material #2097628754'
+    2100220: 'Material #2097628755'
+    2100222: 'Material #2097628756'
+    2100224: 'Material #2097628757'
+    2100226: 'Material #2097628758'
+    2100228: 'Material #2097628759'
+    2100230: 'Material #2097628760'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: S2_canvas_XXQ_095
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
